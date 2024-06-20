@@ -7,12 +7,9 @@
 <hr>
 
 <div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Marcoss-Freire&hide=contribs&theme=transparent,prs" width="440" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcoss-Freire&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=4&theme=default&hide_border=false&order=2" height="170" alt="languages graph" />
-  </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Marcoss-Freire&hide=contribs&theme=transparent,prs" width="492.5" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcoss-Freire&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=4&theme=default&hide_border=false&order=2" height="187.5" alt="languages graph" />
+
 </div>
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcoss-Freire&radius=20&theme=minimal&area=true&order=5&hide_title=true" height="100%" alt="activity-graph graph" />
