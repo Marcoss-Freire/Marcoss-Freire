@@ -6,9 +6,9 @@
 
 <hr>
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Marcoss-Freire&hide=contribs&theme=transparent,prs" width="492.5" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcoss-Freire&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=4&theme=default&hide_border=false&order=2" height="187.5" alt="languages graph" />
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Marcoss-Freire&hide=contribs&theme=transparent,prs" width="420" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcoss-Freire&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=4&theme=default&hide_border=false&order=2" height="160"/>
 
 </div>
 <div>
